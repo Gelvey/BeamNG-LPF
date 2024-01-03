@@ -1,6 +1,6 @@
 # Gelvey-LPF | BeamNG/MP License Plate Fix App
 
-![Gelvey-LPF Logo](logo.png)
+![Gelvey-LPF Logo](logo.jpg)
 
 ## Description
 
