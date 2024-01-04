@@ -3,6 +3,7 @@
 ![Gelvey-LPF Logo](logo.jpg)
 
 **Join our Discord Community:** [Click here to join](https://dsc.gg/neuronexus)
+**Join our BeamMP Server:** "NeuroBeam"
 
 ## Description
 
