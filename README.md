@@ -29,8 +29,8 @@ Follow these steps to efficiently manage your mods using the Gelvey-LPF License 
    - Download the latest release and extract the contents.
 
 4. **Run Gelvey-LPF App:**
-   - Locate the extracted executable file (e.g., `GelveyLPFApp.exe`).
-   - Double-click on the executable to run the Gelvey-LPF App.
+   - Locate the extracted executable file (e.g., `GelveyLPF.exe`).
+   - Double-click on the executable to run the app.
 
 5. **Select Parent Directory:**
    - Use the provided GUI to select the parent directory where your mod folders are stored.
