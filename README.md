@@ -2,6 +2,8 @@
 
 ![Gelvey-LPF Logo](logo.jpg)
 
+**Join our Discord Community:** [Click here to join](https:dsc.gg/neuronexus)
+
 ## Description
 
 Sick of mods overwriting your custom number plates? The Gelvey-LPF License Deletion App is the solution! This Python application searches all subdirectories from the selected parent directory for files ending in a ".pc" extension. For every file found, the app deletes the line containing "licenseName":"annoyingModOverwites".
